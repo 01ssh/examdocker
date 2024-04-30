@@ -1,0 +1,28 @@
+
+============================
+    Authentication test
+============================
+
+request done at "/permissions"
+| username="bob"
+| password="builder"
+
+expected result = 200
+actual restult = {status_code}
+
+==>  {test_status}
+
+
+============================
+    Authentication test
+============================
+
+request done at "/permissions"
+| username="clementine"
+| password="mandarine"
+
+expected result = 200
+actual restult = {status_code}
+
+==>  {test_status}
+
